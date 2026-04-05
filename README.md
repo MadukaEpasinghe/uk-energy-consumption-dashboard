@@ -39,7 +39,7 @@ An interactive dashboard was developed to:
 ---
 
 ## 📸 Dashboard Preview
-(Add images here)
+(https://github.com/MadukaEpasinghe/uk-energy-consumption-dashboard/tree/main/Images)
 
 ---
 
